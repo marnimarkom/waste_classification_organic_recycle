@@ -1,0 +1,2 @@
+# waste_classification_organic_recycle
+organic and recycle classification
